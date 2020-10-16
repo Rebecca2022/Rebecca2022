@@ -1,3 +1,5 @@
+**Exploring The Text Encoding Initiative Through _"The Yellow Wallpaper"_...
+
 For our TEI coding project I was assigned the first column of page 655, the last page of [_“The Yellow Wallpaper"_](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf) and was instructed to use Oxygen XML Editor to turn my portion of the original text into a more easily readable online version that stayed true to the original’s formatting and content. I was very excited to work on a real Digital Humanities project, however, having done nothing similar to this in the past I was a little nervous when I first started out. Once I downloaded and started working with Oxygen however, I got a lot more comfortable very quickly. In the rest of this blog I will be detailing my experience with the program, the text I was transcribing into Oxygen, and the process that I went through in order to go from a PDF of the original text to a coded and formatted online version. 
 
 ![A photo of a Google Doc containing marked up text](https://Rebecca2022.github.io/Rebecca2022/images/GOOGLEDOC.png)
